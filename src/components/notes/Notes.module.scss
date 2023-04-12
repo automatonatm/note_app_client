@@ -1,0 +1,13 @@
+.note__card {
+   background-color: cornsilk;
+  margin: 4px;
+
+  .card__body {
+    overflow: hidden;
+    mask-image: linear-gradient(180deg, #000 60%, transparent);
+  }
+.card__text {
+   white-space: pre-line;
+}
+    
+}
